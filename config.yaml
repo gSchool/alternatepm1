@@ -1,0 +1,25 @@
+Standards:
+  - Title: Project Management Unit 2
+    UID: 140be8e7-cb13-47aa-a663-961cbd3bf160
+    Description: Product Management Overview Unit
+    SuccessCriteria:
+      - Unit has a config.yaml
+      - Unit has a lesson
+      - Unit has a checkpoint
+    ContentFiles:
+      - Type: Lesson
+        UID: a427b1c0-e8d1-4cec-bc6a-9eaa89033307
+        Path: /lessons/01-product_roadmap.md
+      - Type: Lesson
+        UID: 2124fd5e-1e06-4eaf-9f17-785ed34a63e8
+        Path: /lessons/02-user_personas.md
+      - Type: Lesson
+        UID: f95ecd99-cdb1-458f-b6ec-2883d25fcb8e
+        Path: /lessons/03-user_stories.md
+      - Type: Lesson
+        UID: 74663bff-4dc6-41c7-8c85-bc56543882ba
+        Path: /lessons/04-workshop.md
+      - Type: Checkpoint
+        UID: d52113c1-dfa0-4ad9-a9f8-31ab5340b63f
+        Path: /checkpoints/checkpoint2.md
+        Autoscore: true
